@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="Base"></string>    
-	<string name="Intrigue">陰謀</string>    
-	<string name="Seaside">海辺</string>    
-	<string name="Alchemy">錬金術</string>    
-	<string name="Prosperity">繁栄</string>    
-	<string name="Cornucopia">収穫祭</string>    
-	<string name="Hinterlands">異郷</string>    
+  <string name="Adventures">冒険</string>
+  <string name="Alchemy">錬金術</string>
+  <string name="Base2E">基本第二版</string>
+  <string name="Cornucopia">収穫祭</string>
+  <string name="DarkAges">暗黒時代</string>
+  <string name="Empires">帝国</string>
+  <string name="Hinterlands">異郷</string>
+  <string name="Intrigue">陰謀</string>
+  <string name="Intrigue2E">陰謀第二版</string>
+  <string name="Nocturne">夜想曲</string>
+  <string name="Promo">プロモ</string>
+  <string name="Prosperity">繁栄</string>
+  <string name="Renaissance">ルネサンス</string>
+  <string name="Seaside">海辺</string>
 </resources>
